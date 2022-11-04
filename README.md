@@ -1,6 +1,9 @@
 ## Olá! Eu sou Mateus Nasc
  
- 
+ - Atualmente Estudando Javascript
+ - Um Front-end em formação
+ - Tenho 21 anos
+ - Sou de Fortaleza/CE
   
 <div>
   <a href="https://github.com/Mateus-Nasc">
