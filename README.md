@@ -3,7 +3,7 @@
  - Atualmente Estudando Javascript
  - Um Front-end em formação
  - Tenho 21 anos
- - Sou de Fortaleza/CE
+ - Fortaleza/CE
   
 <div>
   <a href="https://github.com/Mateus-Nasc">
