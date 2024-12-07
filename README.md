@@ -1,8 +1,8 @@
-## Olá! Eu sou Mateus Nasc
+## Eae sou Mateus Nasc
  
- - Atualmente Estudando Javascript
- - Um Front-end em formação
- - Tenho 21 anos
+ - Atualmente focando no Front
+ - Ciência da computação - UFC
+ - Tenho 23 anos
  - Fortaleza/CE
   
 <div>
