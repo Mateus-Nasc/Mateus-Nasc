@@ -1,8 +1,8 @@
 ## Eae sou Mateus Nasc
  
- - Atualmente focando no Front
+ - Dedicado no desenvolvimento de software
  - Ciência da computação - UFC
- - Tenho 23 anos
+ - Tenho 24 anos
  - Fortaleza/CE
   
 <div>
