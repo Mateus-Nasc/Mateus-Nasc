@@ -23,16 +23,8 @@
 ### Me siga nas redes abaixo!
 
 <div>
-  <a href="https://www.youtube.com/seu-canal" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-
   <a href="https://instagram.com/Mateus-Nasc" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://discord.gg/5DVhGKVf4h" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 
   <a href="mailto:seuemail@gmail.com" target="_blank">
