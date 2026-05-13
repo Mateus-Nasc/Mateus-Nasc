@@ -21,7 +21,7 @@
 
 ### Tecnologias e Ferramentas
 
-No momento, focado no ecossistema **NestJS** e banco de dados relacionais:
+No momento, focado no ecossistema **NestJS**
 
 <div style="display: inline_block">
   <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
