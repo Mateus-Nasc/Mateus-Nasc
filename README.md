@@ -9,7 +9,7 @@
 
 ### Minhas Estatísticas
 
-[https://github-readme-stats-eight-theta.vercel.app/api?username=Mateus-Nasc&show_icons=true&theme=tokyonight](https://github-readme-stats-eight-theta.vercel.app/api?username=Mateus-Nasc&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mateus-Nasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ---
 
