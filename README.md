@@ -11,8 +11,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Mateus-Nasc&show_icons=true&theme=tokyonight&v=2)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Nasc&layout=compact&theme=tokyonight&v=2)
-
 ---
 
 ### Tecnologias e Ferramentas
