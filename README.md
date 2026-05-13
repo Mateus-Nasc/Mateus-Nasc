@@ -9,7 +9,13 @@
 
 ### Minhas Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mateus-Nasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<div align="center">
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mateus-Nasc&show_icons=true&theme=tokyonight&cache_bust=123" 
+    alt="Estatísticas de Commits do Mateus" 
+    height="190"
+  />
+</div>
 
 ---
 
