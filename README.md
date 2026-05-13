@@ -9,12 +9,7 @@
 
 ### Minhas Estatísticas
 
-<div align="center">
-  <a href="https://github.com/Mateus-Nasc">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mateus-Nasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Nasc&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+[https://github-readme-stats-eight-theta.vercel.app/api?username=Mateus-Nasc&show_icons=true&theme=tokyonight](https://github-readme-stats-eight-theta.vercel.app/api?username=Mateus-Nasc&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -50,8 +45,4 @@ No momento, focado no ecossistema **NestJS** e banco de dados relacionais:
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mateus-Nasc/Mateus-Nasc/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mateus-Nasc/Mateus-Nasc/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mateus-Nasc/Mateus-Nasc/output/github-contribution-grid-snake.svg">
-</picture>
+![Animação de cobra](https://raw.githubusercontent.com/Mateus-Nasc/Mateus-Nasc/output/github-contribution-grid-snake.svg)
