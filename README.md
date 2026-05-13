@@ -9,14 +9,11 @@
 
 ### Minhas Estatísticas
 
-<div>
-
+<div align="center">
   <a href="https://github.com/Mateus-Nasc">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Nasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Nasc&layout=compact&langs_count=6&theme=tokyonight"/>
-
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mateus-Nasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Nasc&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ---
@@ -53,4 +50,4 @@ No momento, focado no ecossistema **NestJS** e banco de dados relacionais:
 
 <br>
 
-![Animação de cobra](https://github.com/Mateus-Nasc/Mateus-Nasc/blob/output/github-contribution-grid-snake.svg)
+![Animação de cobra](https://raw.githubusercontent.com/Mateus-Nasc/Mateus-Nasc/output/github-contribution-grid-snake.svg)
